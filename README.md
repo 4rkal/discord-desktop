@@ -7,3 +7,6 @@ Its a pretty simple application that just renders discord.com/app into a desktop
 
 Using go:
 `go install github.com/4rkal/discord-desktop@latest`
+
+AUR:
+`yay -S discord-webview`
