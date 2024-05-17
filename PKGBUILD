@@ -2,7 +2,7 @@
 pkgname=discord-webview
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="A simple webview application to access Discord, without having discord spyware running in the background"
+pkgdesc="A simple webview application to access discord, without having spyware running in the background"
 arch=('x86_64')
 url="https://github.com/4rkal/discord-desktop"
 license=('MIT')
